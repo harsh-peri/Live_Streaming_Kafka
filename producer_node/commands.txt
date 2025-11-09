@@ -1,0 +1,22 @@
+python3 producer.py --mode stdin
+
+python3 producer.py --mode file --file messages.jsonl
+
+
+{"topic": "topic-weather", "message": {"city": "Bangalore", "temp": 30, "humidity": 65}}
+{"topic": "topic-weather", "message": {"city": "Delhi", "temp": 27, "humidity": 72}}
+
+{"topic": "topic-stocks", "message": {"symbol": "AAPL", "price": 184.2, "change": "+0.9%"}}
+{"topic": "topic-stocks", "message": {"symbol": "TSLA", "price": 242.7, "change": "-1.1%"}}
+
+
+{"topic": "topic-sports", "message": {"match": "IND vs AUS", "score": "178/4", "overs": 19.2}}
+{"topic": "topic-sports", "message": {"match": "FCB vs RMA", "score": "2-1", "minute": 75}}
+
+{"topic": "topic-news", "message": {"headline": "RBI hikes repo rate by 25 bps", "category": "finance"}}
+{"topic": "topic-news", "message": {"headline": "New EV charging network launched across India", "category": "tech"}}
+
+{"topic": "topic-traffic", "message": {"city": "Mumbai", "status": "Heavy congestion on Western Express Highway"}}
+{"topic": "topic-traffic", "message": {"city": "Chennai", "status": "Smooth traffic flow near Marina Beach"}}
+
+

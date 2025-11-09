@@ -1,0 +1,13 @@
+[
+  {"topic": "topic-weather", "message": "Heavy rainfall warning issued across coastal Karnataka for next 48 hours."},
+  {"topic": "topic-weather", "message": "Severe heatwave continues in northern India; temperatures cross 45°C."},
+  {"topic": "topic-weather", "message": "Cyclone ‘Megha’ expected to make landfall near Chennai tonight."},
+  {"topic": "topic-weather", "message": "Delhi witnesses highest rainfall in 10 years, traffic severely affected."},
+  {"topic": "topic-weather", "message": "IMD predicts early onset of monsoon in Kerala this year."},
+  {"topic": "topic-weather", "message": "Snowfall in Himachal brings tourist rush during festive weekend."},
+  {"topic": "topic-weather", "message": "Air quality deteriorates in NCR; smog levels remain dangerously high."},
+  {"topic": "topic-weather", "message": "Cold wave grips North India as mercury drops to 2°C in several regions."},
+  {"topic": "topic-weather", "message": "Weather bureau issues red alert for flash floods in Assam."},
+  {"topic": "topic-weather", "message": "Sunny and clear skies expected for the next five days in Mumbai."}
+]
+
